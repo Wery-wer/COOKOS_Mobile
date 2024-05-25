@@ -31,7 +31,7 @@ dependencies:
   flutter:
     sdk: flutter
   get: ^4.6.5
-  google_fonts: ^2.1.0
+  google_fonts: ^6.2.1
   flutter_rating_bar: ^4.0.1
   
 
@@ -49,7 +49,7 @@ dependencies:
   curved_nav_bar: ^0.0.2
   curved_navigation_bar: ^1.0.3
   iconsax: ^0.0.8
-  http: ^0.13.6
+  http: ^1.2.1
   fake_cloud_firestore: ^2.4.4
 
 dev_dependencies:
@@ -58,7 +58,7 @@ dev_dependencies:
 
   equatable: ^2.0.0
   shared_preferences: ^2.0.12
-  lints: ^2.1.1
+  lints: ^4.0.0
   #dart_code_metrics: ^5.0.0
   #pedantic: ^1.11.1
 
@@ -69,7 +69,7 @@ dev_dependencies:
   # activated in the `analysis_options.yaml` file located at the root of your
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
-  flutter_lints: ^2.0.0
+  flutter_lints: ^4.0.0
   mockito: ^5.4.4
   build_runner: ^2.4.7
 
